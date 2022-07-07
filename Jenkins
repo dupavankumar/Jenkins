@@ -9,7 +9,7 @@ pipeline {
 		}
 		stage('Stage2'){
 			steps{
-				echo "We are in 'main' branch"
+				echo "We are in branch 'Branch2' "
 			}
 		}
 	}
